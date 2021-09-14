@@ -1,2 +1,1 @@
-# Academy
-Practicals
+
